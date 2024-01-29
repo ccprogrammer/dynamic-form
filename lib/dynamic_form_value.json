@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "label": "Page One",
+    "values": [
+      {
+        "id": 1,
+        "label": "Form 1",
+        "value": "Form Value 1"
+      },
+      {
+        "id": 2,
+        "label": "Form 2",
+        "value": "Form Value 2"
+      },
+      {
+        "id": 3,
+        "label": "Form 3",
+        "value": ["Check Value 1", "Check Value 2"]
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "label": "Page Two",
+    "values": [
+      {
+        "id": 1,
+        "label": "Form 1",
+        "value": "Form Value 1"
+      },
+      {
+        "id": 2,
+        "label": "Form 2",
+        "value": "Form Value 2"
+      },
+      {
+        "id": 3,
+        "label": "Form 3",
+        "value": ["Check Value 1", "Check Value 2"]
+      }
+    ]
+  }
+]
